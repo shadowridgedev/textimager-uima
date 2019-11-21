@@ -18,7 +18,6 @@ public class CategoryCoveredTagged extends Annotation {
   /** @generated
    * @ordered 
    */
-  @SuppressWarnings ("hiding")
   public final static int typeIndexID = JCasRegistry.register(CategoryCoveredTagged.class);
   /** @generated
    * @ordered 
